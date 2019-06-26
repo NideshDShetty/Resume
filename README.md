@@ -1,2 +1,2 @@
 # Resume
-This is my CV
+My details,Educational qualification and achievements.
